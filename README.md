@@ -6,7 +6,6 @@ finally find out if their preferred sprinter won or not. The user will be able t
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Project Status](#project-status)
-* [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
 
 
@@ -47,10 +46,6 @@ is printed out in the terminal with a message telling the user if she/he won.</l
 
 
 
-
-## Acknowledgements
- 
- This README.md was inspired by <a href ="https://github.com/ritaly"> Ritaly</a>
     
    
 
